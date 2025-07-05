@@ -39,7 +39,7 @@ int main(int argc, const char **argv)
 
   nblocks  = 2;
   nthreads = 8;
-  nsize    = nblocks*nthreads ;
+  nsize    = nblocks*nthreads;
 
   // allocate memory for array
 
